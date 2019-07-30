@@ -1,4 +1,4 @@
-This is a review presentation of DNN acceleration papers.
+This is a review presentation of DNN acceleration papers.  
 (Inclduing DNN acceleartion, accelerator, hardware-aware optimization, pruning technique)
 The list is as follows.
   
