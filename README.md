@@ -1,5 +1,5 @@
 This is a review presentation of DNN acceleration papers.  
-(Inclduing DNN acceleartion, accelerator, hardware-aware optimization, pruning technique)
+(Inclduing DNN acceleartion, accelerator, hardware-aware optimization, pruning technique)  
 The list is as follows.
   
 [1] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks  
